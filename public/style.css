@@ -1,0 +1,30 @@
+.body {
+    background-color: rgb(32, 155, 196);
+}
+
+#headers {
+    border-style: solid;
+    width: 50%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+#topSpots {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
+.section {
+    background-color: white;
+}
+
+.well {
+    background-color: white;
+    border-style: none;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
